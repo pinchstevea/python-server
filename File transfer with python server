@@ -1,0 +1,6 @@
+to share file on python server 
+open terminal then server in the folder containing files to share 
+type 
+curl http://ip:8000/filename
+this will download your file 
+success
