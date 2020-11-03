@@ -1,0 +1,8 @@
+using python3 
+open terminal type 
+python -m http.server 8000
+python -m //modules for server
+8000 port to be used 
+
+then run on your browser 
+http://ip:8000
